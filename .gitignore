@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/
+*.exe
+*.elf
+*.so
+*.o
+core
+.DS_Store
+*.swp
+loot/
+recon_*/
+*.zip
+*.tar.gz
